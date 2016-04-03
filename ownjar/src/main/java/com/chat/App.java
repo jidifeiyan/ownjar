@@ -1,4 +1,4 @@
-package com.ownjar;
+package com.chat;
 
 /**
  * Hello world!
