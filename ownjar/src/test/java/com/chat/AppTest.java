@@ -1,4 +1,4 @@
-package com.ownjar;
+package com.chat;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
